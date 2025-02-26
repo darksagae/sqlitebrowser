@@ -1,4 +1,5 @@
-# sqlitebrowserSQLiteBrowser is a graphical tool for viewing and editing SQLite database files. Here’s a guide on how to use it, along with examples and expected outcomes.
+# sqlitebrowser
+SQLiteBrowser is a graphical tool for viewing and editing SQLite database files. Here’s a guide on how to use it, along with examples and expected outcomes.
 
 ### Installation
 
